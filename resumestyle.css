@@ -1,0 +1,85 @@
+h1{
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  margin-top: 6%;
+}
+div > img{
+  border: 1px dashed mediumorchid;
+  margin: 3em;
+  padding: 10vh;
+}
+body{
+
+  m//argin: 32 px;
+}
+#bio{
+  border-bottom: 2px solid black;
+  text-align: center;
+  font-family:'Julius Sans One', sans-serif;
+  line-height: 100%;
+  color: rosybrown;
+}
+#my-location{
+  color: blue;
+  font-size: 2vw;
+  font-family: Cormorant Garamond, serif;
+}
+#my-leadership{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2vw;
+  color: blueviolet;
+}
+.experience p strong{
+  font-family: Cormorant Garamond, serif;
+  font-size: 17px;
+}
+.experience p em{
+  font-family: Cormorant Garamond, serif;
+  font-size: 17px;
+  color: blue
+}
+.experience strong > em{
+  font-family: Cormorant Garamond, serif;
+  font-size: 17px;
+  color: black
+}
+.experience h3{
+  padding: 10px;
+  color: blueviolet;
+  font-family: Cormorant Garamond, serif;
+}
+.experience {
+  font-family:'Julius Sans One', sans-serif;
+  font-size: 15px;
+  border-bottom: 2px solid black;
+  line-height: 100%;
+}
+.experience li > em{
+  font-family: Cormorant Garamond, serif;
+  font-size: 17px;
+  color: blue
+}
+.experience li strong{
+  font-family: Cormorant Garamond, serif;
+  font-size: 17px;
+  color: black
+}
+#project{
+  font-family:'Julius Sans One', sans-serif;
+}
+.projects h3{
+  font-family: Cormorant Garamond, serif;
+  font-size: 4vh;
+  text-align: center;
+  border: 10px dotted cornsilk;
+  padding: 6px;
+  color: blueviolet;
+}
+.projects h4{
+  color: rosybrown;
+  font-family: Cormorant Garamond, serif;
+  font-size: 1.5em
+}
+.projects h5 {
+  color: darkslategray;
+}
